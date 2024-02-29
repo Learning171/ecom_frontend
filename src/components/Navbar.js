@@ -89,3 +89,35 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+// import IconButton from '@mui/material/IconButton';
+// import Button from '@mui/material/Button';
+// import { ShoppingCart } from "@mui/icons-material";
+// import { Link } from 'react-router-dom';
+
+{/* <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+          Online Grocery Store
+        </Typography>
+        <IconButton color="inherit">
+          <ShoppingCart />
+        </IconButton>
+        <Link to='/login'>
+            <Button
+                color="primary"
+                variant="contained"
+                size="small"
+                component="a"
+                target="_blank"
+            >
+            Sign in
+            </Button></Link>
+            <Link to="/register">
+            <Button
+                color="primary"
+                variant="contained"
+                size="small"
+                component="a"
+                target="_blank"
+            >
+            Sign up
+            </Button></Link> */}
